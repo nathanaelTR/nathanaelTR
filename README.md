@@ -22,7 +22,7 @@ Hey 😊,
 
 ## 📌 __**My Tech Stack**__
 
-![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs,flutter,bootstrap,symfony,react,tailwind,vite,react)
+![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs,flutter,bootstrap,symfony,react,tailwind,vite)
 ![VM](https://skillicons.dev/icons?i=docker,vmware)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NathanaelTR&show_icons=true&theme=radical)
