@@ -25,4 +25,6 @@ Hey 😊,
 ![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs,flutter,bootstrap,symfony,react,tailwind,vite,react)
 ![VM](https://skillicons.dev/icons?i=docker,vmware)
 
-![NathanaelTR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanaelTR&theme=vue-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NathanaelTR&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NathanaelTR&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanaelTR&layout=compact&theme=radical)
