@@ -27,4 +27,5 @@ Hey 😊,
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NathanaelTR&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NathanaelTR&theme=radical)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanaelTR&layout=compact&theme=radical)
