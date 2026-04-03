@@ -25,4 +25,4 @@ Hey 😊,
 ![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs,flutter,bootstrap,symfony,react,tailwind,vite,react)
 ![VM](https://skillicons.dev/icons?i=docker,vmware)
 
-![Furtifoppe State Github](https://github-readme-stats.vercel.app/api?username=NathanaelTR)
+![NathanaelTR State Github](https://github-readme-stats.vercel.app/api?username=NathanaelTR)
