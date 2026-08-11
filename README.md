@@ -1,5 +1,5 @@
 Hey 😊,
-**I'm Nathanael TROUART**, I'm a Developer Full Stack Junior French, I develop a bit of everything and nothing, I mainly develop to have fun and discover new ways of doing what I do.
+**I'm Nathanael**, I'm a Developer Full Stack Junior French, I develop a bit of everything and nothing, I mainly develop to have fun and discover new ways of doing what I do.
 
 
 ## 📌 __**My IDE**__
